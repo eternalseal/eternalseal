@@ -1,6 +1,6 @@
 <h3 align="center">
   <br>👋 Hi...<br>
-  <br> Fullstack web developer with JavaScript and Golang
+  <br> Fullstack web developer with JavaScript/PHP/Golang
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </h3>
