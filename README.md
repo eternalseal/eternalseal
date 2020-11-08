@@ -52,7 +52,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=FFA518)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material UI-333333?style=flat&logo=material ui&logoColor=FFA518)&nbsp;
+![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material%20ui&logoColor=FFA518)&nbsp;
 
 ### Dependencies
 
@@ -75,5 +75,5 @@
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=eternalseal&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhingra&layout=compact" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhingra" alt="my github stats" width="420"/>&nbsp;
 </p>
