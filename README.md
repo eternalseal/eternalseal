@@ -1,15 +1,15 @@
 <h3 align="center">
   <br>👋 Hi...<br>
-  <br> I'm a Full-stack Web Developer using JavaScript, Golang <br> and Cloud Infrastructure
+  <br> Fullstack web developer with JavaScript and Golang
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </h3>
 
-* 💼   Interested in full stack. Recent focus on backend.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 💼 &nbsp;  Interested in full stack. Recent focus on backend.
+* 🎓 &nbsp;  Bachelor of Engineering in Computer Science and Engineering, GPA 3.75/4.0, TOP 3%.
+* 🌱 &nbsp;  Currently learning Math & Philosophy.
+* 📚 &nbsp;  Reading more about Apple, Harry Potter and how the computer works.
+* 💻 &nbsp;  With 4 years' computer science and technology education and 5 years' development working experience.
 
 <!--
 <a href="https://discord.gg/AmnQrRtZ">
