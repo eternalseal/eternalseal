@@ -30,7 +30,7 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=FFFF09)&nbsp;
-![Solidty](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=solidity)&nbsp;
+![Solidty](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go&logoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
