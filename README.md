@@ -1,15 +1,15 @@
 <h3 align="center">
   <br>👋 Greetings from 👋<br>
-  <br> A Fullstack Web developer with JavaScript/PHP/Golang
+  <br> A Fullstack JavaScript, Blockchain Developer<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </h3>
 
-* 💼 &nbsp;  Interested in full stack. Recent focus on backend.
+* 💼 &nbsp;  Interested in full stack. Recent focus on Blockchain Development.
 * 🎓 &nbsp;  Bachelor of Engineering in Computer Science and Engineering, GPA 3.75/4.0, TOP 3%.
 * 🌱 &nbsp;  Currently learning Math & Philosophy.
-* 📚 &nbsp;  Reading more about Apple, Harry Potter and how the computer works.
-* 💻 &nbsp;  With 4 years' computer science and technology education and 5 years' development working experience.
+* 📚 &nbsp;  Reading more about Apple, Harry Potter and how the Blockchain works.
+* 💻 &nbsp;  With 4 years' computer science and technology education and 7 years' development working experience.
 
 <!--
 <a href="https://discord.gg/AmnQrRtZ">
@@ -30,9 +30,9 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=FFFF09)&nbsp;
+![Solidty](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=solidity)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -42,10 +42,10 @@
 
 ### Frameworks
 
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=python)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)&nbsp;
 ![D3.js](https://img.shields.io/badge/-D3.js-333333?style=flat&logo=d3.js)&nbsp;
