@@ -42,7 +42,7 @@
 
 ### Frameworks
 
-![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
